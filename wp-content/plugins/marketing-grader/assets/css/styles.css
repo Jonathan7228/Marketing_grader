@@ -1,0 +1,195 @@
+.display-label-radios
+{
+	display:inline-block;
+	margin-right: 30px;
+}
+
+.content-button
+{
+	margin-top: 5%;
+}
+
+.content-sub-questions
+{
+	margin-left: 2%;
+	width: 100%;
+
+}
+
+.label-sub-questions-which
+{
+	width: 10%;
+
+}
+.which-text
+{
+	width: 80% !important;
+}
+
+.label_questions
+{
+	width: 80%;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.label_descriptors
+{
+	width: 80%;
+	font-size: 20px;
+    font-style: oblique;
+}
+
+.label_sub_questions
+{
+	width: 76%
+}
+
+.content_question
+{
+	display: inline-flex;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.content_answers
+{
+	width: 20%;
+}
+
+.content_sub_answers
+{
+	width: 20%;
+	margin-left: 2%;
+}
+
+.content-general-by-question
+{
+	margin-top: 5%;
+}
+
+.content_values
+{
+
+	width: 10% !important;
+	display: inline-grid !important;
+	text-align: center;
+}
+
+.field_value
+{
+	width: 65% !important;
+	text-align: center;
+}
+
+.content_field_value
+{
+	width: 10% !important;
+	text-align: center;
+}
+
+.content_field_value_principal
+{
+	width: 10% !important;
+	text-align: center;
+	margin-top: 5%;
+}
+
+.display-label-fields-values
+{
+	    margin-left: 10%;
+	    display: inline-block;
+	    text-align: center;
+}
+
+.inputs_sub_questions
+{
+	width: 100%
+}
+
+.content-inputs-sub-questions
+{
+	margin-left: 2%;
+	width: 100%;
+	padding-top: 2%
+
+}
+
+.hr-questions
+{
+	margin-top: 5%;
+}
+.hr-subquestions{
+	margin-top: 2%;
+}
+
+.content_selection_mode{
+	margin-left: 5%;
+}
+
+.btn-next{
+	float: right;
+}
+
+.btn-back{
+	float: right;
+	margin-right: 10px;
+}
+
+.content_buttons{
+	margin-top: 5%;
+}
+.btn_calculate{
+	margin-right: 10px;
+	float: right;
+}
+.btn_download{
+	margin-right: 115px;
+    margin-top: 40px;
+}
+
+.content-header-result{
+	display: inline-flex;
+}
+
+.col-header-result{
+	max-width: 50%;
+}
+
+.text-debil{
+	color:red;
+}
+
+.text-regular{
+	color:yellow;
+}
+
+.text-fuerte{
+	color:green;
+}
+
+.hr-debil{
+	color: red;
+    border: solid;
+    height: 12px;
+    background: red;
+}
+
+.hr-regular{
+	color: yellow;
+    border: solid;
+    height: 12px;
+    background: yellow;
+}
+
+.hr-fuerte{
+	color: green;
+    border: solid;
+    height: 12px;
+    background: green;
+}
+
+.hr-by-questions{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
